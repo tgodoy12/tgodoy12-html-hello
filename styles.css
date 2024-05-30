@@ -1,0 +1,53 @@
+body {
+    margin: auto;
+    background-color: lightgrey;
+    
+}
+#wrapper {
+    max-width: 800px;
+    margin: auto;
+}
+
+
+header h1 {
+    background: white;
+    margin: auto;
+    text-align: center;
+}
+.post-box {
+    background: white;
+    width: 100%; 
+    max-width: 600px;
+    margin: 50px auto;
+    box-sizing: border-box;
+    
+}
+.post-title {
+    padding: 10px 0 10px 0;
+}
+.post-title h2 {
+   display: inline-block;
+   margin: 0;
+   width: 80%; 
+   padding-left: 15px;
+   font-size: larger;
+
+   
+}
+.post-title span {
+    display: inline-block;
+    margin: 0;
+    width: 15%;
+    text-align: right;
+    color: gray;
+}
+.image img{
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    
+}
+.text {
+    padding: 10px 15px;
+}
+
