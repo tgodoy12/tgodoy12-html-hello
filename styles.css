@@ -7,8 +7,6 @@ body {
     max-width: 800px;
     margin: auto;
 }
-
-
 header h1 {
     background: white;
     margin: auto;
@@ -20,7 +18,6 @@ header h1 {
     max-width: 600px;
     margin: 50px auto;
     box-sizing: border-box;
-    
 }
 .post-title {
     padding: 10px 0 10px 0;
@@ -30,9 +27,7 @@ header h1 {
    margin: 0;
    width: 80%; 
    padding-left: 15px;
-   font-size: larger;
-
-   
+   font-size: larger;  
 }
 .post-title span {
     display: inline-block;
